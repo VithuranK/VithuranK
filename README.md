@@ -34,12 +34,7 @@
     currently_Studied = "Bachelor of Science in Physics and Electronics"
     currently_learning = "Java, Python, JavaScript, Flutter, Kotlin"
     cool_fact = "Coding Bugs were NOT named after an actual bug"
-	hobbies = [
-				'Music',
-			 	'Gaming',
-				'Sci-Fi Movies',
-                         'learning new things'
-			]
+	hobbies = ['Music','Gaming','Sci-Fi Movies','learning new things']
 	
 	def getCity():
 		return Vavuniya_Srilanka()
